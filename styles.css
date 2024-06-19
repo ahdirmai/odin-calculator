@@ -62,7 +62,7 @@ body {
 
 .key.equals {
   background-color: #42b983;
-  grid-column: span 4;
+  grid-column: span 2;
 }
 
 .key.equals:hover {
