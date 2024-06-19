@@ -160,7 +160,7 @@ operatorButtons.forEach((button) => {
 });
 
 equalsButton.addEventListener("click", handleEqualsClick);
-clearButton.addEventListener("click", handleClearClick);
+// clearButton.addEventListener("click", handleClearClick);
 allClearButton.addEventListener("click", handleAllClearClick);
 percentageButton.addEventListener("click", handlePercentageClick);
 negateButton.addEventListener("click", handleNegateClick);
